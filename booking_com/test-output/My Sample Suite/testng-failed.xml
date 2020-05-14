@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [My Sample Suite]">
+  <test name="Application Login(failed)">
+    <classes>
+      <class name="booking_tests.login">
+        <methods>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeClass"/>
+          <include name="afterSuite"/>
+          <include name="loginTest1"/>
+          <include name="beforeTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- booking_tests.login -->
+    </classes>
+  </test> <!-- Application Login(failed) -->
+</suite> <!-- Failed suite [My Sample Suite] -->

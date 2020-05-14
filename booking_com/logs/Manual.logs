@@ -1,0 +1,48 @@
+03/10/2019 12:43:46 devpinoyLogger Test NAme--login
+03/10/2019 12:43:46 devpinoyLogger total rows --5
+03/10/2019 12:43:46 devpinoyLogger total cols --4
+03/10/2019 12:43:46 devpinoyLogger returning data
+03/10/2019 12:44:06 devpinoyLogger Click on sign in button
+03/10/2019 12:44:06 devpinoyLogger enter email address
+03/10/2019 12:44:06 devpinoyLogger click on next button
+03/10/2019 12:44:11 devpinoyLogger enter password
+03/10/2019 12:44:12 devpinoyLogger click on log in button
+03/10/2019 12:44:24 devpinoyLogger Validating if user signed in or not
+03/10/2019 12:44:24 devpinoyLogger username and password is correct
+03/10/2019 12:44:24 devpinoyLogger printing--2
+03/10/2019 12:44:24 devpinoyLogger printing--pass
+03/10/2019 12:44:25 devpinoyLogger printing--2
+03/10/2019 12:44:25 devpinoyLogger printing--login(success) testcase is successful
+03/10/2019 12:44:43 devpinoyLogger user is signing out
+03/10/2019 12:44:58 devpinoyLogger Click on sign in button
+03/10/2019 12:44:58 devpinoyLogger enter email address
+03/10/2019 12:44:59 devpinoyLogger click on next button
+03/10/2019 12:45:04 devpinoyLogger enter password
+03/10/2019 12:45:04 devpinoyLogger click on log in button
+03/10/2019 12:45:20 devpinoyLogger Validating if user signed in or not
+03/10/2019 12:45:20 devpinoyLogger username and password is correct
+03/10/2019 12:45:20 devpinoyLogger printing--3
+03/10/2019 12:45:20 devpinoyLogger printing--pass
+03/10/2019 12:45:20 devpinoyLogger printing--3
+03/10/2019 12:45:20 devpinoyLogger printing--login(success) testcase is successful
+03/10/2019 12:45:41 devpinoyLogger user is signing out
+03/10/2019 12:46:00 devpinoyLogger Click on sign in button
+03/10/2019 12:46:01 devpinoyLogger enter email address
+03/10/2019 12:46:01 devpinoyLogger click on next button
+03/10/2019 12:46:06 devpinoyLogger enter password
+03/10/2019 12:46:06 devpinoyLogger click on log in button
+03/10/2019 12:46:36 devpinoyLogger invalid credentials
+03/10/2019 12:46:36 devpinoyLogger printing--4
+03/10/2019 12:46:36 devpinoyLogger printing--fail
+03/10/2019 12:46:36 devpinoyLogger printing--4
+03/10/2019 12:46:36 devpinoyLogger printing--login(failure) testcase is successful
+03/10/2019 12:47:07 devpinoyLogger Click on sign in button
+03/10/2019 12:47:07 devpinoyLogger enter email address
+03/10/2019 12:47:07 devpinoyLogger click on next button
+03/10/2019 12:47:12 devpinoyLogger enter password
+03/10/2019 12:47:12 devpinoyLogger click on log in button
+03/10/2019 12:47:42 devpinoyLogger invalid credentials
+03/10/2019 12:47:42 devpinoyLogger printing--5
+03/10/2019 12:47:42 devpinoyLogger printing--fail
+03/10/2019 12:47:43 devpinoyLogger printing--5
+03/10/2019 12:47:43 devpinoyLogger printing--login(failure) testcase is successful

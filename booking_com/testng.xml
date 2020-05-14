@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Sample Suite">
+
+
+
+
+
+<test name="Application Login">
+    <classes>
+        <class name="booking_tests.login" ></class>  
+    </classes>
+</test>
+
+
+
+
+</suite>
